@@ -15,13 +15,13 @@ Cart Functionality
 1. Customers can add products to the cart for checkout.
 
 Future Scope
-1. Payment Gateway integration (not yet added)
+1. Payment Gateway integration.
 2. User authentication/authorization
 3. Order history
 
 🛠️ Tech Stack
 
 Backend: Java, Spring Boot
-Database: (e.g., MySQL / H2 — mention whichever you used)
-Build Tool: Maven/Gradle
+Database: (e.g., MySQL)
+Build Tool: Maven
 REST API Testing: Postman / cURL
